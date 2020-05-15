@@ -1,0 +1,5 @@
+id; dani u tjednu (1-pon);početak;osoba-uloga,osoba-uloga,...
+18; 7; 13:25; 8-4
+17; 7; 14:00;
+26; 7; 18:00; 19-6
+30; 7; 23:00;
